@@ -8,7 +8,7 @@ const Home = () => {
 	const [showText, setShowText] = useState(false);
 return (
 	<div>
-	<h1>Home Page</h1>
+	<h1>Default Page</h1>
 	<br />
 	<ul>
 		<li>
